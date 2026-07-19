@@ -1,3 +1,0 @@
-﻿# DOLCI-Admin
-
- This is for the Admin/Staff side of the website. This is just a prototype. No backend. 
