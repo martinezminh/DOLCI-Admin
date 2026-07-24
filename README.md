@@ -7,7 +7,7 @@ The **DOLCI Cake Ordering and Management System** is an academic team project th
 ## Repository Scope
 
 This repository includes:
-- HTML/CSS prototype of the admin interface.
+- HTML prototype of the admin interface.
 - Project screenshots.
 - Selected systems analysis and design documentation.
 - Supporting files related to the administrative module.
