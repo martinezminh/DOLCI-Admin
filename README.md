@@ -31,9 +31,8 @@ This repository includes:
 ## Technologies Used
 
 - HTML
-- CSS
-- Microsoft Word
-- Microsoft PowerPoint
+- Google Docs 
+- Canva 
 
 ## Disclaimer
 
